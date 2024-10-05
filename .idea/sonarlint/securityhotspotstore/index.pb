@@ -7,8 +7,6 @@ B
 tsconfig.json,6\1\61ebb9fd6e8cf9082658121d5d81e297791dacd0
 ?
 pages/index.tsx,b\3\b3357635c26d1b52053382ce7e8a8640d31fedc8
-D
-components/Button.ts,1\5\15bb03a3c4926f4de37173f76a813c444717dc26
 E
 components/Navbar.tsx,a\5\a578c7e8c33c7f24400807e00a74617aec18284b
 C
